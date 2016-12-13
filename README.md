@@ -55,13 +55,13 @@ Our conference paper details how it works.
 # Publication
 
 This work is presented in ACM Symposium on Cloud Computing 2016 (SoCC2016).
-Our paper is [available online at ACM Digital Library](http://doi.acm.org/10.1145/2987550.2987570) free of charge.
+Our paper is available [online](assets/socc2016-raminate.pdf).
 
 RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems  
 Takahiro Hirofuchi, Ryousei Takano  
 Proceedings in the seventh ACM Symposium on Cloud Computing 2016, pp. 112--125, Oct 2016  
 **Best Paper Award** (Only one Best Paper Award in the conference)  
-DOI: http://doi.acm.org/10.1145/2987550.2987570  
+DOI: [10.1145/2987550.2987570](http://doi.acm.org/10.1145/2987550.2987570)  
 [slides](assets/socc2016-raminate-talk-slides.pdf) and [poster](assets/socc2016-raminate-poster.pdf)
 
 
