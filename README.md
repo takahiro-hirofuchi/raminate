@@ -85,6 +85,15 @@ DOI: http://doi.acm.org/10.1145/2987550.2987570
 }
 ```
 
+
+# Dissemination
+
+- Invited talk, AIST Technobridge Fair 2016, Oct 20, 2016
+- Invited talk, Embedded System Symposium 2016 (ESS2016), Oct 22, 2016
+- Invited talk, Networking Group, NII, Dec 12, 2016
+- Invited talk, Big Data Infrastracture Workshop, Dec 22, 2016
+
+
 # Contact
 
 Takahiro Hirofuchi, Ph.D.  
