@@ -18,6 +18,15 @@ the operating system level nor any design changes of the current memory
 controller at the hardware level.
 
 
+Updated Jun 2018:
+Recently, Intel announced that their DIMM-based Optane memory will be on the market in 2019.
+The hypervisor mechanism of RAMinate will also work for the hybrid memory system using DRAM and Optane.
+I am looking for industry partners to extend RAMinate for acutual use as well as academic collaborators to conduct further research in this area. Contact me!
+
+
+
+
+
 # Overview
 
 
