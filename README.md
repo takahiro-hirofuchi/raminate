@@ -65,9 +65,13 @@ Our conference paper details how it works.
 
 # Publication
 
-This work is presented in ACM Symposium on Cloud Computing 2016 (SoCC2016).
 
-1. RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems  
+## RAMinate
+
+This work was firstly presented in ACM Symposium on Cloud Computing 2016 (SoCC2016).
+When citing RAMinate, please use the following paper.
+
+RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems  
 Takahiro Hirofuchi, Ryousei Takano  
 Proceedings in the seventh ACM Symposium on Cloud Computing 2016, pp. 112--125, Oct 2016  
 **Best Paper Award** (Only one Best Paper Award in the conference)  
@@ -94,10 +98,11 @@ DOI: [10.1145/2987550.2987570](http://doi.acm.org/10.1145/2987550.2987570)
 }
 ```
 
+## RAMinate and Intel Optane DC
 
-2. The Preliminary Evaluation of a Hypervisor-based Virtualization Mechanism for Intel Optane DC Persistent Memory Module
-Takahiro Hirofuchi, Ryousei Takano
-[arXiv](https://arxiv.org/abs/1907.12014), Computing Research Repository (CoRR), vol. abs/1907.12014, pp. 1-9, July 2019
+The Preliminary Evaluation of a Hypervisor-based Virtualization Mechanism for Intel Optane DC Persistent Memory Module  
+Takahiro Hirofuchi, Ryousei Takano  
+[arXiv](https://arxiv.org/abs/1907.12014), Computing Research Repository (CoRR), vol. abs/1907.12014, pp. 1-9, July 2019  
 [paper](https://arxiv.org/pdf/1907.12014)
 
 
