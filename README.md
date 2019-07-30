@@ -102,8 +102,8 @@ DOI: [10.1145/2987550.2987570](http://doi.acm.org/10.1145/2987550.2987570)
 
 The Preliminary Evaluation of a Hypervisor-based Virtualization Mechanism for Intel Optane DC Persistent Memory Module  
 Takahiro Hirofuchi, Ryousei Takano  
-[arXiv](https://arxiv.org/abs/1907.12014), Computing Research Repository (CoRR), vol. abs/1907.12014, pp. 1-9, July 2019  
-[paper](https://arxiv.org/pdf/1907.12014)
+arXiv, Computing Research Repository (CoRR), vol. abs/1907.12014, pp. 1-9, July 2019  
+[abstract](https://arxiv.org/abs/1907.12014),[paper](https://arxiv.org/pdf/1907.12014)
 
 
 
