@@ -120,7 +120,7 @@ arXiv, Computing Research Repository (CoRR), vol. abs/1907.12014, pp. 1-9, July 
 
 Takahiro Hirofuchi, Ph.D.  
 National Institute of Advanced Industrial Science and Technology (AIST)  
-http://grivon.apgrid.org/takahiro-hirofuchi
+https://takahiro-hirofuchi.github.io/
 
 
 # Acknowledgment
