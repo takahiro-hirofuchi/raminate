@@ -18,11 +18,13 @@ the operating system level nor any design changes of the current memory
 controller at the hardware level.
 
 
-Updated Jun 2018:
+Updated June 2018:
 Recently, Intel announced that their DIMM-based Optane memory will be on the market in 2019.
 The hypervisor mechanism of RAMinate will also work for the hybrid memory system using DRAM and Optane.
-I am looking for industry partners to extend RAMinate for acutual use as well as academic collaborators to conduct further research in this area. Contact me!
+I am looking for industry partners to extend RAMinate for actual use as well as academic collaborators to conduct further research in this area. Contact me!
 
+Updated July 2019:
+We applied RAMinate to Intel Optane DC and confirmed that RAMinate successfully works for the first commercially-available, byte-addressable memory. See [our prompt report in arXiv](https://arxiv.org/abs/1907.12014).
 
 
 
@@ -72,6 +74,12 @@ Proceedings in the seventh ACM Symposium on Cloud Computing 2016, pp. 112--125, 
 DOI: [10.1145/2987550.2987570](http://doi.acm.org/10.1145/2987550.2987570)  
 [paper](assets/socc2016-raminate.pdf),
 [slides](assets/socc2016-raminate-talk-slides.pdf) and [poster](assets/socc2016-raminate-poster.pdf)
+
+The Preliminary Evaluation of a Hypervisor-based Virtualization Mechanism for Intel Optane DC Persistent Memory Module
+Takahiro Hirofuchi, Ryousei Takano
+[arXiv](https://arxiv.org/abs/1907.12014), Computing Research Repository (CoRR), vol. abs/1907.12014, pp. 1-9, July 2019
+[paper](https://arxiv.org/pdf/1907.12014)
+
 
 
 ```
